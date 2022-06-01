@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-   <h1>Hola!!👋 Soy Flor Villafañe! </h1>
+   <h1>Hola!!👋 Soy Florencia Villafañe! </h1>
    <strong><p>Estudio Analista de Sistemas y aprendo Desarrollo Web👩‍💻</p></strong>
    
    <h2> ➡ ¿ A que me dedico actualmente?</h2>
