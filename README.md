@@ -26,14 +26,18 @@
        <li><strong>IBM:</strong> Python For Data Science</li>      
    </div>
 
-  <h2>Aprendiendo:</h2>
+  <h2>Conocimientos en:</h2>
   <div>
       <li>HTML</li>
       <li>CSS</li>
       <li>Bootstrap</li>
       <li>Git</li>
-      <li>SASS</li>
+  <h2>Aprendiendo en el trabajo:</h2>
+      <li>Javascript</li>
+<h2>Aprendiendo en Facultad:</h2>
+      <li>Java</li>
       <li>C</li>
+      <li>Visual Basic</li>
   </div>
   <h2>SKILLS:</h2>
   <div>
