@@ -10,7 +10,7 @@
    <strong><p>Estudio Analista de Sistemas y aprendo Desarrollo Web👩‍💻</p></strong>
    
    <h2> ➡ ¿ A que me dedico actualmente?</h2>
-   <strong><p>Soy Analista de Bases de Datos en <strong>TELECOM</strong> 📊</p></strong>
+   <strong><p>Software Developer en <strong>TELECOM</strong> 📊</p></strong>
    
    <h2>👩‍🎓 Educación:</h2>
 
@@ -21,9 +21,11 @@
    <h3>Cursos 💻</h3>
    <div>
        <li><strong>CODERHOUSE: </strong> Desarrollo Web</li>
+       <li><strong>UDEMY: </strong> Angular.js</li>
        <li><strong>Centro de e-Learning UTN FRBA:</strong> Python 3 - Nivel Intermedio</li>
        <li><strong>Centro de e-Learning UTN FRBA:</strong>Python 3 - Nivel Inicial</li>
-       <li><strong>IBM:</strong> Python For Data Science</li>      
+       <li><strong>IBM:</strong> Python For Data Science</li>    
+       
    </div>
 
   <h2>Conocimientos en:</h2>
@@ -32,8 +34,8 @@
       <li>CSS</li>
       <li>Bootstrap</li>
       <li>Git</li>
-  <h2>Aprendiendo en el trabajo:</h2>
-      <li>Javascript</li>
+      <li>Bitbucket</li>
+  
 <h2>Aprendiendo en Facultad:</h2>
       <li>Java</li>
       <li>C</li>
