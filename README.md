@@ -32,9 +32,11 @@
   <div>
       <li>HTML</li>
       <li>CSS</li>
+      <li>Angular.js</li>
+      <li>Typescript</li>
       <li>Bootstrap</li>
-      <li>Git</li>
       <li>Bitbucket</li>
+      <li>Git</li>
   
 <h2>Aprendiendo en Facultad:</h2>
       <li>Java</li>
