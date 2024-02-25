@@ -7,7 +7,7 @@
 </head>
 <body>
    <h1>Hola!!👋 Soy Florencia Villafañe! </h1>
-   <strong><p>Estudio Analista de Sistemas y aprendo Desarrollo Web👩‍💻</p></strong>
+   <strong><p>Me dedico al Desarrollo Web👩‍💻</p></strong>
    
    <h2> ➡ ¿ A que me dedico actualmente?</h2>
    <strong><p>Software Developer en <strong>TELECOM</strong> 📊</p></strong>
@@ -22,9 +22,7 @@
    <div>
        <li><strong>CODERHOUSE: </strong> Desarrollo Web</li>
        <li><strong>UDEMY: </strong> Angular.js</li>
-       <li><strong>Centro de e-Learning UTN FRBA:</strong> Python 3 - Nivel Intermedio</li>
        <li><strong>Centro de e-Learning UTN FRBA:</strong>Python 3 - Nivel Inicial</li>
-       <li><strong>IBM:</strong> Python For Data Science</li>    
        
    </div>
 
@@ -32,22 +30,19 @@
   <div>
       <li>HTML</li>
       <li>CSS</li>
-      <li>Angular.js</li>
+      <li>Angular</li>
       <li>Typescript</li>
-      <li>Bootstrap</li>
+      <li>PrimeNG</li>
+      <li>PrimeFLEX</li>
       <li>Bitbucket</li>
+      <li>Gitlab</li>
       <li>Git</li>
+       <li>MariaDB</li>
   
-<h2>Aprendiendo en Facultad:</h2>
-      <li>Java</li>
-      <li>C</li>
-      <li>Visual Basic</li>
-  </div>
   <h2>SKILLS:</h2>
   <div>
      <li>Visual Studio Code</li>
-     <li>Dev-C++</li>
-     <li>Eclipse</li>
+    <li>Postman</li>
   </div>  
     <h2>🕵 Podes encontrarme en: </h2>
     <div>
